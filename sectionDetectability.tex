@@ -1,0 +1,49 @@
+\section{Detectability for WDs}
+{\it Rosanne, the top few paras are discussion mostly for your/our benefit to ensure the assumptions I have made are clearly laid out and reasonable.  Although some brief summary of this material is likely to be necessary in the text, the table and subsequent discussion I have in mind to be directly inserted into the text, with whatever modifications and shortening you would like to make.  Ultimately, I think we need to do a better job on timescales for the most massive events in the Table before the optical results should be taken too seriously. That is where input from James and Bob would be helpful.}
+
+
+State-of-the art ground-based optical surveys (i.e., PAN-STARRS, hereafter PS) typically reach a depth $\gtrsim$21 mag in single observations (lasting one-to-several minutes).  By contrast, the next generation, LSST, is much more sensitive $\sim 23-24$ mag.   These provide sky coverage up to a few thousands of square degrees each day.  We adopt a strong optical detection threshold of 20~mag, so that subsequent non-detections in the declining phase are discriminating.  In order to estimate an event's brightness, we adopt a characteristic timescale for the optical emission of $100~s$.  Although it is certainly important within our Galaxy, we neglect the effects of extinction. 
+
+
+While optical surveys cover fixed or limited regions of the sky over a range of cadences, X-ray monitors (Swift BAT, RXTE ASM, MAXI GSC, Integral ISGRI), often cover the full, or else nearly the full sky at all times, producing $\sim$daily maps of the brightest X-ray sources.   One of the most-sensitive of these monitors, the MAXI GSC, is sensitive to source fluences of $\sim50$ Crab~seconds per orbit (i.e., corresponding a persistent flux $\lesssim 50$ mCrab).  MAXI observes very nearly the full sky each $\sim 90$~minute orbit.   We adopt this fluence as a detection threshold.  (Because the prompt emission is quite short compared to the exposure timescale, we are sensitive to fluence, not flux.)  In calculating the X-ray emission, we arbitrarily assume that a fraction $f_X = 10\%$ of the impact energy $E$ is released in the form of prompt (nonthermal) X-rays.  
+
+
+By contrast, Chandra / XMM-Newton imaging is sensitive to {\em much} fainter X-ray sources.  The tradeoff, of course, is that these instruments have very narrow fields-of-view, and correspondingly a very low duty cycle for observing any particular region of sky.  We neglecting photon pileup effects, and adopt a detection threshold of 25 X-ray photons (at a characteristic energy of 1~keV, for an instrument with effective area $\sim300$~cm$^2$).   
+
+
+In Table~1, we compute rough estimates for the rate, brightness, and detectability of impact events for a spectrum of masses.  In each case, we compute the distance to which a given impact could be detected for the classes of detector described above.  
+
+
+\begin{deluxetable*}
+  \tabletypesize{\scriptsize}
+  \tablecolumns{8}
+  \tablewidth{0pc}
+  \tablecaption{Event Rate and Detectability}
+ \tablehead{\colhead{Mass} & \colhead{Rate} & \colhead{Peak $L_{\rm opt}$} &  \colhead{$f_X E /1 keV$}     &  \colhead{$d_{\rm opt}$} & \colhead{$d_{X,{\rm imag}}$} & \colhead{$d_{X,{\rm monitor}}$} & \colhead{Best Strategy}  \\ 
+~~~~~~~~(g)                &  (yr$^{-1}$ Galaxy$^{-1}$) & (erg/s)   &     photons                &    (pc)       &  (pc)  & (pc) & }
+\startdata
+%%Observation       &  Flux Limit  &  $L_{\rm Gal}$ (5 kpc) &  $L_{\rm eGal}$ (z=0.05)\\
+$10^{17}$  (SL9)     &  $4\times10^{4}$   &  $10^{32}$      &   $10^{42}$       &  5$\times10^3$      &    250                       &   2.5   &  Ground-based optical surveys. \\
+$10^{19}$  (Eros)    &  $10^{3}$          &  $10^{34}$      &   $10^{44}$       &  50$\times10^3$      &    2.5$\times10^3$                      &  25   &  Ground-based optical surveys.\\
+$10^{22}$  (Iris)    &  $8$               &  $10^{37}$      &   $10^{47}$       &   1500$\times10^3$     &    80$\times10^3$           &   800   & X-ray all-sky monitors.  \\
+$10^{24}$  (Ceres)   &  $0.25$            &  $10^{39}$      &   $10^{49}$       &   15$\times10^6$     &    800$\times10^3$         &    8$\times10^3$ &  X-ray all-sky monitors.   \\
+$10^{26}$  (Mercury) &  $0.008$            &  $10^{41}$      &   $10^{51}$       &  150$\times10^6$      &    8$\times10^6$         &    80$\times10^3$ & X-ray imaging of galaxy clusters. \\
+$10^{28}$  (Earth)   &  $2.5\times10^{-4}$ &  $3\times10^{42}$     &   $10^{53}$       &  800$\times10^6$      &    80$\times10^6$         &    800$\times10^3$ &  X-ray imaging of galaxy clusters. \\
+$10^{30}$  (Jupiter) &  $8\times10^{-6}$   &  $2\times10^{44}$     &   $10^{55}$       &  7$\times10^9$      &   800$\times10^6$         &    8$\times10^6$ &   X-ray imaging / all-sky monitors. \\
+\enddata
+\tablecomments{Rate estimates subject to $\sim1$ order of magnitude uncertainty.}
+\label{tab:results}
+\end{deluxetable*}
+
+
+Asteroids of mass $\lesssim 10^{20}$g produce the least energetic events in Table~1.  These are best detected in the optical and even then just within our Galaxy (or even just the Solar neighborhood).  Although the event rates are high, so that hundreds to thousands of events are {\em detectably} bright, the  duration of these transient impacts are sufficiently short that even high-cadence ground-based surveys designed to hunt transients are only likely to find 0.1--1 per decade (being most sensitive to impactors with $M\sim10^{19}$g).  
+
+
+Meanwhile, energetic events involving sub-Earth-mass planets ($M \sim 10^{27}$g) occur with sufficient frequency that they are potentially detectable with X-ray imaging of galaxy clusters.  In particular, several Ms in aggregate is available for crowded fields within nearby rich clusters ($d \lesssim 100 Mpc$, e.g., Virgo, Norma, and Coma).   Our model predicts $\lesssim 0.1$ events is expected in this data set.  However,  we have demonstrated that large-scale dynamics foster small-scale interactions; we therefore speculate that the vigorous activity in clusters may enhance these rates.  
+
+
+Intermediate impactors the scale of Ceres ($M \sim 10^{24}~g$), are sufficiently faint that they are not detectable outside the Local Group.  At the same time, the rates are so low that pointed ground or space-based instruments have negligible chance at detection.  In this regime, the X-ray monitors shine.  Approximately 1 event per year is bright enough to be detectable by X-ray monitors; however, factoring in their sky coverage, only $0.01-0.1$/yr detections are expected.  
+
+
+In short, we find that with current instruments, these impacts are at the cusp of detectability.  It is unlikely that any event has heretofore been identified or recorded.  At the same time, we note that with a generational improvement in sensitivity for X-ray coded-mask instruments, we will be far better poised to find these impacts on WDs.  A modest improvement in these X-ray monitors    
+would likewise importantly extend the detectability of Jupiter-WD collisions to $\gtrsim 100$ Mpc, the proximity of nearby galaxy clusters.  The detection rates of these most energetic events would then become appreciable.   Likewise, LSST, PTF, Pan-Starrs and their ilk, including monitoring programs like OGLE and TESS, will be increasingly capable of yielding nearby asteroid impacts, over a timescale of years.    

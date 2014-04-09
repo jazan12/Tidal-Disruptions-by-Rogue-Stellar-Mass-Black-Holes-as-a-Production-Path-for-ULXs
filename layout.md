@@ -1,0 +1,16 @@
+abstract.tex
+binaries.tex
+sectionIntroductionl.tex
+sectionA_Black_Hole_.tex
+sectionmuGRB_Event_R.tex
+sectionAccretion_and.tex
+sectionThe_Planets_D.tex
+sectionCandidate_Eve.tex
+figures/fig1/default_figure.png
+figures/fig2/default_figure.png
+sectionDiscussionlab.tex
+sectionWD_Rates_sect.tex
+figures/js_rateplot/default_figure.png
+sectionDetectability.tex
+sectionConclusionsla.tex
+sectionAcknowledgmen.tex
