@@ -5,7 +5,6 @@ sectionmuGRB_Event_R.tex
 sectionAccretion_and.tex
 sectionThe_Planets_D.tex
 sectionCandidate_Eve.tex
-figures/fig2/default_figure.png
 sectionDiscussionlab.tex
 sectionWD_Rates_sect.tex
 figures/js_rateplot/default_figure.png
