@@ -8,6 +8,7 @@ sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 sectionWD_Rates_sect.tex
 figures/js_rateplot/default_figure.png
+/js_rateplot.ps
 sectionDetectability.tex
 sectionConclusionsla.tex
 sectionAcknowledgmen.tex
