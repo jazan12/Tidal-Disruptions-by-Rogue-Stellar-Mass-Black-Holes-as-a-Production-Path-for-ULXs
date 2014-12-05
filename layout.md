@@ -1,5 +1,6 @@
 abstract.tex
 sectionIntroductionl.tex
+fig_m_log.ps
 sectionA_Black_Hole_.tex
 sectionmuGRB_Event_R.tex
 sectionAccretion_and.tex
