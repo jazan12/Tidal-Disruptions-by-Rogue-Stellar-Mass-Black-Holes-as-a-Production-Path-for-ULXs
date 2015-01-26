@@ -10,6 +10,7 @@ sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 /js_rateplot.ps
+figures/galfig_tobs/galfig_tobs.png
 figures/galfig_mdotpeak_log/galfig_mdotpeak_log.png
 figures/galfig_mzams_log/galfig_mzams_log.png
 figures/galfig_obsrate/galfig_obsrate.png
