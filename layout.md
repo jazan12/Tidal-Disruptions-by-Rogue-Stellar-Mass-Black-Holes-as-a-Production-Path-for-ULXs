@@ -1,4 +1,5 @@
-abstract.tex
+
+figures/galfig_mdotpeak/galfig_mdotpeak.pngabstract.tex
 sectionIntroductionl.tex
 fig_m_log.ps
 sectionA_Black_Hole_.tex
