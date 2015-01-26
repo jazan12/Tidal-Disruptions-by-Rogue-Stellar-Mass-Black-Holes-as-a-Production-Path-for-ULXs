@@ -1,4 +1,5 @@
 
+figures/fig_tobs/fig_tobs.png
 figures/galfig_mdotpeak/galfig_mdotpeak.pngabstract.tex
 sectionIntroductionl.tex
 fig_m_log.ps
