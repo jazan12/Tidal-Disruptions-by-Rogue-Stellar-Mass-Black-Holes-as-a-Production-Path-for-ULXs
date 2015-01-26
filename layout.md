@@ -7,6 +7,7 @@ sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 /js_rateplot.ps
+figures/galfig_obsrate/galfig_obsrate.png
 figures/galfig_radius_log/galfig_radius_log.png
 figures/galfig_rate copy/galfig_rate copy.png
 figures/js_plot_cdf/js_plot_cdf.png
