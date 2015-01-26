@@ -7,5 +7,6 @@ sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 /js_rateplot.ps
+figures/galfig_lum_dist/galfig_lum_dist.png
 sectionConclusionsla.tex
 sectionAcknowledgmen.tex
