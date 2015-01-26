@@ -7,7 +7,6 @@ sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 sectionWD_Rates_sect.tex
-figures/js_rateplot/js_rateplot.png
 /js_rateplot.ps
 sectionDetectability.tex
 sectionConclusionsla.tex
