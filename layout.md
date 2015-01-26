@@ -4,7 +4,6 @@ fig_m_log.ps
 sectionA_Black_Hole_.tex
 sectionmuGRB_Event_R.tex
 sectionAccretion_and.tex
-sectionThe_Planets_D.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 sectionWD_Rates_sect.tex
