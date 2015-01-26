@@ -6,7 +6,6 @@ sectionmuGRB_Event_R.tex
 sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
-sectionWD_Rates_sect.tex
 /js_rateplot.ps
 sectionDetectability.tex
 sectionConclusionsla.tex
