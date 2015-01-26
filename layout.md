@@ -7,6 +7,7 @@ sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 /js_rateplot.ps
+figures/galfig_rate copy/galfig_rate copy.png
 figures/js_plot_cdf/js_plot_cdf.png
 figures/galfig_ULXs/galfig_ULXs.png
 figures/galfig_lum_dist/galfig_lum_dist.png
