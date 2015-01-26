@@ -7,6 +7,5 @@ sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 /js_rateplot.ps
-sectionDetectability.tex
 sectionConclusionsla.tex
 sectionAcknowledgmen.tex
