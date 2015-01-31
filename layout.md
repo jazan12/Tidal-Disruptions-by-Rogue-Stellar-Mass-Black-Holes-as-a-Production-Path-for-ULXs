@@ -1,13 +1,13 @@
-
-figures/galfig_mdotpeak/galfig_mdotpeak.pngabstract.tex
+abstract.tex
 sectionIntroductionl.tex
-fig_m_log.ps
 sectionA_Black_Hole_.tex
 sectionmuGRB_Event_R.tex
 sectionAccretion_and.tex
 sectionCandidate_Eve.tex
 sectionDiscussionlab.tex
 /js_rateplot.ps
+figures/galfig_mdotpeak/galfig_mdotpeak.png
+fig_m_log.ps
 figures/galfig_tobs_log/galfig_tobs_log.png
 figures/galfig_tobs/galfig_tobs.png
 figures/galfig_mdotpeak_log/galfig_mdotpeak_log.png
